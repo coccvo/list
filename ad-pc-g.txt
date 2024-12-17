@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Checksum: 3DwlBzx+tTgbyFjmTBq7XQ
-! Title: My AdFilters（for PC）
+! Title: My AdFilters 改
 ! Expires: 12 hours
 ! Version: 202412171400
 ! Last Modified: 2024年12月17日 14:00
